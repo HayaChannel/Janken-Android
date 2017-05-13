@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Janken</string>
+    <string name="janken_text">Please Choose one</string>
+    <string name="back_text">Back</string>
+    <string name="result_win">YOU WIN!!</string>
+    <string name="result_lose">YOU LOST</string>
+    <string name="result_draw">DRAW</string>
+</resources>
