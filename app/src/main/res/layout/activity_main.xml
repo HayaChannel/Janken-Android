@@ -41,7 +41,6 @@
 
     <ImageButton
         android:background="@android:color/holo_orange_light"
-
         android:id="@+id/pa"
         android:layout_width="100dp"
         android:layout_height="100dp"
