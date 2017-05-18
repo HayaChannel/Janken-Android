@@ -7,7 +7,6 @@
     tools:context="com.hayachannel.janken.MainActivity"
     android:background="@android:color/holo_orange_dark">
 
-
     <ImageButton
         android:background="@android:color/holo_orange_light"
         android:id="@+id/choki"
